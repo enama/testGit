@@ -1,0 +1,11 @@
+commit 840c496884e3a1e35e5e3c4ad506a0fbd4439d60
+Author: aluna <angelica.luna@informatix.co>
+Date:   Mon Feb 24 17:38:55 2020 -0500
+
+    Adding my name in landing page
+
+commit 152fb91e37e007caf7e87e3036e73e7f0e91cb67
+Author: aluna <angelica.luna@informatix.co>
+Date:   Mon Feb 24 17:34:14 2020 -0500
+
+    Starting test project
